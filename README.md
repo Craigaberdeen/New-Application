@@ -11,7 +11,7 @@ Cabline is a browser application built with plain HTML, CSS, and JavaScript. It 
 5. Leave **Environment Variables** empty and click **Deploy**.
 6. When Vercel finishes, click **Visit** to open the app. Copy that address to open it on your phone or share the demo.
 
-You do not need a Netlify token or Vercel token when using this GitHub import flow. Vercel will ask you to connect GitHub and choose a plan if necessary. No deployment URL exists until you complete deployment in your Vercel account.
+You do not need a Netlify token or Vercel token when using this GitHub import flow. Vercel will ask you to connect GitHub and choose a plan if necessary. The deployed demo is available at [https://new-application-kappa.vercel.app](https://new-application-kappa.vercel.app).
 
 ## What to try
 
